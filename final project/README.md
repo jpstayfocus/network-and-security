@@ -1,4 +1,4 @@
-# CS325 Final Project
+# Project
 
 ## TLS fingerpirnts
 
